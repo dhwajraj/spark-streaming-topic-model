@@ -20,5 +20,5 @@ The code will automatically download the yahoo news corpus [**Ref**](https://www
 ![Apache Spark scalable online LDA](https://cloud.githubusercontent.com/assets/9861437/19376476/bba1fd5c-91fb-11e6-8bfd-8b826b4298d8.png)
 
 # REF
-- Image sources : http://www.slideshare.net/AlexMinnaar1/vstextbythebay
+- http://www.slideshare.net/AlexMinnaar1/vstextbythebay
 - http://spark.apache.org/docs/latest/mllib-clustering.html
