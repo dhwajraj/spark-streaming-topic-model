@@ -14,10 +14,10 @@ The dataset is provided by the academic comunity for research purposes in data m
 The code will automatically download the yahoo news corpus [**Ref**](https://www.di.unipi.it/~gulli/AG_corpus_of_news_articles.html) . In case of some issue, you can directly download the news corpus file (118 MB) from [**here**](https://www.di.unipi.it/~gulli/newsSpace.bz2)
 
 # Core LDA model
-![lda](https://cloud.githubusercontent.com/assets/9861437/19376470/b4ee8a48-91fb-11e6-87c6-30c36a4e485e.jpg)
+<img src="https://cloud.githubusercontent.com/assets/9861437/19376470/b4ee8a48-91fb-11e6-87c6-30c36a4e485e.jpg" height="50%" width="50%"/>
 
 # Online LDA with minibatch processing in Apache Spark
-![Apache Spark scalable online LDA](https://cloud.githubusercontent.com/assets/9861437/19376476/bba1fd5c-91fb-11e6-8bfd-8b826b4298d8.png)
+<img src="https://cloud.githubusercontent.com/assets/9861437/19376476/bba1fd5c-91fb-11e6-8bfd-8b826b4298d8.png" height="50%" width="50%"/>
 
 # REF
 - http://www.slideshare.net/AlexMinnaar1/vstextbythebay
