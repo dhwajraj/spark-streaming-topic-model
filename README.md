@@ -4,7 +4,7 @@ Latent Dirichlet Allocation (LDA) based topic modeling of news corpus in Apache 
 # System Requirements
 
 # How it works
-![spark-stream-lda](https://cloud.githubusercontent.com/assets/9861437/19377220/fd0d83b4-9201-11e6-96b2-759b04dd0409.png)
+<img src="https://cloud.githubusercontent.com/assets/9861437/19377220/fd0d83b4-9201-11e6-96b2-759b04dd0409.png" height="50%" width="50%"/>
 
 # Dataset Download
 AG is a collection of more than 1 million news articles. News articles have been gathered from more than 2000  news sources by ComeToMyHead in more than 1 year of activity. ComeToMyHead is an academic news search engine which has been running since July, 2004. 
