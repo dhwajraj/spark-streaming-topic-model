@@ -2,6 +2,11 @@
 Latent Dirichlet Allocation (LDA) based topic modeling of news corpus in Apache Spark Streaming
 
 # System Requirements
+- Java 1.8.x
+- Scala 2.10.x
+- Spark 1.6 +
+- Any OS
+- 6GB+ RAM
 
 # How it works
 <img src="https://cloud.githubusercontent.com/assets/9861437/19377220/fd0d83b4-9201-11e6-96b2-759b04dd0409.png" height="50%" width="50%"/>
